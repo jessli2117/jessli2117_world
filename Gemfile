@@ -15,6 +15,9 @@ gem 'sqlite3'
 gem 'simple_form'
 gem 'carrierwave'
 gem 'will_paginate'
+gem "loofah", ">= 2.3.1"
+gem "nokogiri", ">= 1.10.4"
+gem 'vuejs'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
